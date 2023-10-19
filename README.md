@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 🥇:My Trophies:
 [Git Hub Trophies](https://github-profile-trophy.vercel.app/?username=Ronit26Mehta&theme=monokai)
 <br>
-### qoute:
+### quote:
 <div style="background-color: #f7f7f7; padding: 20px; text-align: center; border: 1px solid #ddd; border-radius: 10px; font-family: 'Century Gothic', sans-serif;">
   <img src="https://your-image-url.com/alan-turing-image.jpg" alt="Alan Turing" style="max-width: 200px; border-radius: 50%;">
   <blockquote style="font-style: italic;">
