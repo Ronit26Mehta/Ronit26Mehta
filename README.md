@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Ronit26Mehta
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ronit26Mehta&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit26Mehta)](https://github.com/anuraghazra/github-readme-stats)
