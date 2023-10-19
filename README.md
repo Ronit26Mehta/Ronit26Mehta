@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <br>
 ### quote:
 <div style="background-color: #f7f7f7; padding: 20px; text-align: center; border: 1px solid #ddd; border-radius: 10px; font-family: 'Century Gothic', sans-serif;">
-  <img src="https://your-image-url.com/alan-turing-image.jpg" alt="Alan Turing" style="max-width: 200px; border-radius: 50%;">
   <blockquote style="font-style: italic;">
     "Sometimes it is the people no one can imagine anything of who do the things no one can imagine."
     <footer style="margin-top: 10px;">— Alan Turing</footer>
