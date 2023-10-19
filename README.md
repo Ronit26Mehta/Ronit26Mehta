@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit26Mehta)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ### 🥇:My Trophies:
-https://github-profile-trophy.vercel.app/?username=Ronit26Mehta&theme=monokai
+[![Git Hub Trophies](https://github-profile-trophy.vercel.app/?username=Ronit26Mehta&theme=monokai)]
