@@ -88,14 +88,7 @@ I'm **Ronit Mehta**, a **Software Development Engineer, Machine Learning Enginee
 
 ---
 
-## 📢 Blog & Articles
-I write about **AI, ML, Blockchain, and DevOps**. Read my latest posts:  
-📝 **[Article 1 Title](https://medium.com/@Ronit26Mehta/article1)** – *A brief overview of modern ML pipelines.*  
-📝 **[Article 2 Title](https://medium.com/@Ronit26Mehta/article2)** – *Insights into secure blockchain implementations.*
 
-*Note: Update the above links with your actual blog or article URLs.*
-
----
 
 ## 🎯 Fun Facts
 - 🔥 Developed an **automated AI-based Forensics System**, improving accuracy by **85%**.  
@@ -112,13 +105,7 @@ I write about **AI, ML, Blockchain, and DevOps**. Read my latest posts:
 
 ---
 
-## 🐍 Snake Eating My Contributions
-![Snake Game](https://raw.githubusercontent.com/ronit26mehta/snake-game/main/snake.svg)  
-*Enjoy this fun visual of contributions being "eaten" by the snake!*
 
-*Note: If you have a preferred snake graphic, feel free to update the image URL.*
-
----
 
 ## 🚀 Final Words
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
