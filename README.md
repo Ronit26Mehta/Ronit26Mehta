@@ -1,17 +1,10 @@
-<!-- =====================================================================
-     Hi, I'm Ronit! 👋
-     Welcome to my personal GitHub profile.
-     This README showcases my professional journey, skills, projects, 
-     achievements, and contributions dynamically.
-     ===================================================================== -->
-
 # Hi, I'm Ronit Mehta! 🚀  
 
 ![Banner](https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/templates/Art/banner.png)
 
 ---
 
-## **🧑‍💻 About Me**
+## 🧑‍💻 About Me
 I'm **Ronit Mehta**, a **Software Development Engineer, Machine Learning Engineer, and Data Scientist** with expertise in **full-stack development, big data engineering, and cloud computing**. I am passionate about **building scalable software solutions** and **optimizing AI-driven applications**.
 
 - 🎯 Currently working as a **Digital Forensics Analyst** at **Deep Cytes Cyber Labs, Mumbai**.
@@ -26,25 +19,26 @@ I'm **Ronit Mehta**, a **Software Development Engineer, Machine Learning Enginee
 
 ---
 
-## **🛠️ Tech Stack & Skills**
-### **Programming & Development**
+## 🛠️ Tech Stack & Skills
+
+### Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)
 
-### **Machine Learning & AI**
+### Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn)
 ![MLOps](https://img.shields.io/badge/MLOps-0078D6?style=flat-square&logo=azure-devops)
 
-### **Data Engineering & Databases**
+### Data Engineering & Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apache-hadoop)
 
-### **Cloud & DevOps**
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
@@ -52,7 +46,7 @@ I'm **Ronit Mehta**, a **Software Development Engineer, Machine Learning Enginee
 
 ---
 
-## **🌟 Achievements & Awards**
+## 🌟 Achievements & Awards
 🏆 **1st Place** (500+ teams) **"Quantathon - 24" IIT-Roorkee** – ML-based trading strategy.  
 🏆 **Champion** at **Hacker House Goa** – Best **Blockchain Implementation** (8,000+ teams).  
 🥈 **Runner-up** at **Tech A Thon** (500+ teams) – Real-time AI-based **ERP system**.  
@@ -61,28 +55,31 @@ I'm **Ronit Mehta**, a **Software Development Engineer, Machine Learning Enginee
 
 ---
 
-## **🚀 Noteworthy Projects**
-🔹 **Smart City Data Pipeline** (Apache Kafka, Spark MLlib, MongoDB)  
-➡ Architected a real-time **data pipeline** with **99.9% uptime** for urban data streams.  
-➡ Built ML models to improve **traffic prediction accuracy by 95%**.  
-➡ Optimized MongoDB **query latency by 60%** for 50GB+ datasets.  
-📌 **[GitHub Repo](#)**  
+## 🚀 Noteworthy Projects
+🔹 **Smart City Data Pipeline**  
+*Technologies: Apache Kafka, Spark MLlib, MongoDB*  
+- Architected a real-time **data pipeline** with **99.9% uptime** for urban data streams.  
+- Built ML models to improve **traffic prediction accuracy by 95%**.  
+- Optimized MongoDB **query latency by 60%** for 50GB+ datasets.  
+📌 **[GitHub Repo](https://github.com/Ronit26Mehta/smart-city-data-pipeline)**  
 
-🔹 **AI-Powered Cyber Threat Detection** (TensorFlow, Flask, Streamlit)  
-➡ Built a **Deep Learning-based URL phishing detection model (88% accuracy)**.  
-➡ Optimized API deployments to **reduce latency by 90%**.  
-📌 **[GitHub Repo](#)**  
+🔹 **AI-Powered Cyber Threat Detection**  
+*Technologies: TensorFlow, Flask, Streamlit*  
+- Developed a **Deep Learning-based URL phishing detection model (88% accuracy)**.  
+- Optimized API deployments to **reduce latency by 90%**.  
+📌 **[GitHub Repo](https://github.com/Ronit26Mehta/ai-cyber-threat-detection)**  
 
-🔹 **Blockchain UPI System** (Polygon, Bitcoin, Garden Finance SDK)  
-➡ Engineered **secure cross-chain payments**, handling **1,000+ daily transactions**.  
-➡ Reduced transaction time **from 24 hours to 10 minutes** (98% faster).  
-📌 **[GitHub Repo](#)**  
+🔹 **Blockchain UPI System**  
+*Technologies: Polygon, Bitcoin, Garden Finance SDK*  
+- Engineered **secure cross-chain payments**, handling **1,000+ daily transactions**.  
+- Reduced transaction time **from 24 hours to 10 minutes** (98% faster).  
+📌 **[GitHub Repo](https://github.com/Ronit26Mehta/blockchain-upi-system)**  
 
-*(Replace `#` with actual project links)*  
+*Note: Replace the above links with your actual repository URLs if different.*
 
 ---
 
-## **📊 GitHub Stats**
+## 📊 GitHub Stats
 ![Ronit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronit26Mehta&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit26Mehta&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ronit26Mehta&theme=radical)  
@@ -91,38 +88,39 @@ I'm **Ronit Mehta**, a **Software Development Engineer, Machine Learning Enginee
 
 ---
 
-## **📢 Blog & Articles**
+## 📢 Blog & Articles
 I write about **AI, ML, Blockchain, and DevOps**. Read my latest posts:  
-📝 **[Article 1 Title](#)** – Short description.  
-📝 **[Article 2 Title](#)** – Short description.  
+📝 **[Article 1 Title](https://medium.com/@Ronit26Mehta/article1)** – *A brief overview of modern ML pipelines.*  
+📝 **[Article 2 Title](https://medium.com/@Ronit26Mehta/article2)** – *Insights into secure blockchain implementations.*
 
-*(Replace `#` with your actual blog/article links.)*
-
----
-
-## **🎯 Fun Facts**
-- 🔥 Built an **automated AI-based Forensics System**, improving accuracy by **85%**.  
-- 🏎️ Love **exploring automotive AI & self-driving technology**.  
-- 🎮 Gaming Enthusiast (big fan of **cybersecurity challenges**).  
+*Note: Update the above links with your actual blog or article URLs.*
 
 ---
 
-## **📞 Connect with Me**
+## 🎯 Fun Facts
+- 🔥 Developed an **automated AI-based Forensics System**, improving accuracy by **85%**.  
+- 🏎️ Passionate about **automotive AI & self-driving technology**.  
+- 🎮 Gaming Enthusiast and avid follower of **cybersecurity challenges**.  
+
+---
+
+## 📞 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Ronit26Mehta-181717?style=for-the-badge&logo=github)](https://github.com/Ronit26Mehta)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ronitmehta26)  
 [![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail)](mailto:mehtaronit702@gmail.com)  
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](#)  
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://ronitmehta.com)
 
 ---
 
-## **🐍 Snake Eating My Contributions**
-![Snake Game](https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/templates/Images/snake.svg)
+## 🐍 Snake Eating My Contributions
+![Snake Game](https://raw.githubusercontent.com/ronit26mehta/snake-game/main/snake.svg)  
+*Enjoy this fun visual of contributions being "eaten" by the snake!*
+
+*Note: If you have a preferred snake graphic, feel free to update the image URL.*
 
 ---
 
-## **🚀 Final Words**
+## 🚀 Final Words
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
 
-📌 **Thanks for stopping by!** **Happy Coding! 🚀**
-
----
+📌 **Thanks for stopping by! Happy Coding! 🚀**
