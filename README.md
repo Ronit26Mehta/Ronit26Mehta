@@ -75,7 +75,7 @@ I'm **Ronit Mehta**, a **Software Development Engineer, Machine Learning Enginee
 - Reduced transaction time **from 24 hours to 10 minutes** (98% faster).  
 📌 **[GitHub Repo](https://github.com/Ronit26Mehta/blockchain-upi-system)**  
 
-*Note: Replace the above links with your actual repository URLs if different.*
+
 
 ---
 
