@@ -17,7 +17,7 @@ I'm **Ronit Mehta**, a **Software Development Engineer, Machine Learning Enginee
 📍 Mumbai, India  
 🔗 [LinkedIn](https://linkedin.com/in/ronitmehta26) | [GitHub](https://github.com/Ronit26Mehta)
 
-[![Ronit Mehta profile views](https://u8views.com/api/v1/github/profiles/109467924/views/day-week-month-total-count.svg)](https://u8views.com/github/Ronit26Mehta)
+
 
 ---
 
