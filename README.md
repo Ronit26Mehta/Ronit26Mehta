@@ -1,7 +1,7 @@
 # Hi, I'm Ronit Mehta! 🚀  
 
-![Banner](https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/templates/Art/banner.png)
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Ronit26Mehta.Ronit26Mehta)
 ---
 
 ## 🧑‍💻 About Me
