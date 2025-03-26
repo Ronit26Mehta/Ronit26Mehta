@@ -1,7 +1,7 @@
 # Hi, I'm Ronit Mehta! 🚀  
 
 
-![Profile views](![Profile Views](https://views-counter.vercel.app/badge?pageId=Ronit26Mehta))
+
 ---
 
 ## 🧑‍💻 About Me
